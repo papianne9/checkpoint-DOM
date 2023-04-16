@@ -1,0 +1,43 @@
+.col {
+    display: flex;
+    justify-content: space-between;
+    margin: 70px;
+}
+
+body {
+    padding: 20px;
+    background-color: rgb(32, 221, 235);
+    border: 30px;
+}
+
+header {
+    margin: 70px;
+}
+
+.win {
+    margin: 70px;
+}
+
+.size {
+    border: 50px;
+    align-items: center;
+    flex-direction: row;
+}
+
+.shite1 a img {
+    border-radius: 20px;
+}
+
+.shite2 a img {
+    border-radius: 20px;
+}
+
+.shite3 a img {
+    border-radius: 20px;
+}
+
+
+button {
+    color: rgb(241, 241, 248);
+    background-color: blue;
+}
